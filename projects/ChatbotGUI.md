@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ChatbotGUI.png
 title: "ChatbotGUI"
 date: 2023
 published: true

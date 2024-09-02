@@ -1,113 +1,106 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Lyon Singleton",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/lyons811.png",
+    "email": "lyonws@hawaii.edu",
+    "phone": "808-651-5222",
+    "website": "https://lyons811.github.io/",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "lyons811", "url": "http://github.com/lyons811" },
+      { "network": "linkedin", "username": "lyonsingleton", "url": "http://linkedin.com/in/lyon-singleton" },
+      { "network": "twitter", "username": "lyon811", "url": "http://twitter.com/lyon811" },
+      { "network": "instagram", "username": "lyon__s", "url": "http://instagram.com/lyon__s" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Building Computers" },
+    { "name": "Space Exploration" },
+    { "name": "Reverse Engineering" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Python", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Arch Linux", "Git/GitHub", "g++", "Ghidra" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2020-09-01",
+      "endDate": "2024-12-18",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "ManTech",
+      "position": "Cyber Security Engineering intern",
+      "website": "https://www.mantech.com/",
+      "startDate": "2024-08-19",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Helping with missions for partners",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Implement and monitor advanced cybersecurity solutions for government systems",
+        "Conduct vulnerability assessments and develop mitigation strategies for clients"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Waikiki Aquarium",
+      "position": "Event Security",
+      "website": "https://www.waikikiaquarium.org/",
+      "startDate": "2023-07-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Ensure the safety and security of visitors and staff during special events and regular operations",
+        "Collaborate with team members to coordinate event logistics and crowd management"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Smart Campus Energy Lab",
+      "website": "https://scel-hawaii.org/",
+      "position": "Firmware Team Member",
+      "startDate": "2022-08-01",
+      "endDate": "2022-12-01",
+      "summary": "Member on Team Firmware",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Robotic Space Exploration (RoSE)",
+      "website": "https://manoa.hawaii.edu/uh-vip/project/robotic-space-exploration-rose-vip/",
+      "position": "Team Member",
+      "startDate": "2022-01-01",
+      "endDate": "2022-05-01",
+      "summary": "Member of Team RoSE",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Contributed to the assembly of electronic components on circuit boards for prototype development",
+        "Assisted in the preparation of circuit boards for the soldering process, ensuring proper component placement",
+        "Gained hands-on experience with oscilloscopes, multimeters, and other electronic test equipment"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Deans List",
+      "date": "2020",
+      "awarder": "Kauai Community College",
+      "summary": "Was placed on the Deans List For the Fall Semester at KCC."
     }
   ],
   "references": [

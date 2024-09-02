@@ -40,3 +40,5 @@ def send_message():
         messages.append({"role": "assistant", "content": reply})
         chat_box.insert(tk.END, f"Assistant: {reply}\n\n")
 ```
+For more information and to view the source code, check out the [GitHub repository](https://github.com/lyons811/Chatbot).
+

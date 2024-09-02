@@ -39,3 +39,4 @@ def send_message():
         reply = response["choices"][0]["message"]["content"]
         messages.append({"role": "assistant", "content": reply})
         chat_box.insert(tk.END, f"Assistant: {reply}\n\n")
+```

@@ -11,7 +11,6 @@
     "profiles": [
       { "network": "github", "username": "lyons811", "url": "http://github.com/lyons811" },
       { "network": "linkedin", "username": "lyonsingleton", "url": "http://linkedin.com/in/lyon-singleton" },
-      { "network": "twitter", "username": "lyon811", "url": "http://twitter.com/lyon811" },
       { "network": "instagram", "username": "lyon__s", "url": "http://instagram.com/lyon__s" }
     ]
   },

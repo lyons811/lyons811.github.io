@@ -14,7 +14,7 @@ labels:
 summary: "Vertically Integrated Project that focuses on the firmware of the weatherboxes produced by UH Manoa's SCEL lab."
 ---
 
-<div style="width: 50%;">
+<div style="width: 70%;">
   <img class="img-fluid" src="../img/SCEL/SCEL-people.png">
 </div>
 

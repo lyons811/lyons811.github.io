@@ -18,10 +18,57 @@ summary: "Vertically Integrated Project that focuses on the firmware of the weat
   <img class="img-fluid" src="../img/SCEL/SCEL-people.png">
 </div>
 
-The Smart Campus Energy Lab, or SCEL, is a VIP (Vertically Integrated Project) at the University of Hawaii at Manoa. As a VIP, SCEL brings together students from various disciplines to tackle one of Hawaii's most pressing challenges: achieving 100% renewable energy by 2045. To accomplish this goal, SCEL aims to gather weather data and use it to predict weather patterns. This data can then be used to determine ideal locations for future renewable energy sources. SCEL comprises multiple teams. Team Apple and Team Guava form the hardware backbone, while the Firmware Team keeps the software running on the local servers and the weather boxes themselves. The Machine Learning Team is then in charge of using that data to predict weather patterns.
 
-I was part of Team Firmware in the fall of 2022. We first dove headfirst into infrastructure, fixing the test server that was broken from the previous semester. After that, we got on our way to fine-tuning the server so that it could collect information from the weather boxes, as well as fixing and maintaining the database and gateway servers. Sometimes Team Apple or Team Guava would have a connection issue or something wrong with their version of the firmware, so we would help them troubleshoot. One of the biggest things we did was simplifying the data pipeline. This meant getting our hands dirty with SQL, command-line wizardry, and C programming to reshape the weatherbox schemas.
+## Overview
 
-But SCEL isn't just about coding and data - it's a place for personal growth. Teamwork isn't just encouraged; it's essential. As the lab's go-to support crew, we've learned the art of clear communication and the power of synergy. Time management has become second nature in this fast-paced environment.
+The Smart Campus Energy Lab (SCEL) is a Vertically Integrated Project (VIP) at the University of Hawaii at Manoa. SCEL addresses one of Hawaii's most critical challenges: achieving 100% renewable energy by 2045. The project's primary objective is to collect and analyze weather data to predict patterns and identify optimal locations for future renewable energy installations.
 
-The technical skills I've gained are like tools in a Swiss Army knife - versatile and invaluable. SQL databases? Check. XBEE configuration for data transmission? Mastered. But perhaps the most valuable lesson is this: in the world of renewable energy, every line of code, every data point, and every team member plays a crucial role in building a greener future for Hawaii.
+## Team Structure
+
+SCEL operates with a multidisciplinary approach, comprising several specialized teams:
+
+1. Hardware Teams:
+   - Team Apple
+   - Team Guava
+
+2. Software Teams:
+   - Firmware Team: Responsible for maintaining software on local servers and weather boxes
+   - Machine Learning Team: Utilizes collected data to predict weather patterns
+
+## Personal Experience: Firmware Team (Fall 2022)
+
+### Key Responsibilities and Achievements
+
+1. Infrastructure Maintenance:
+   - Repaired and optimized the test server
+   - Fine-tuned the server for efficient data collection from weather boxes
+   - Maintained and improved database and gateway servers
+
+2. Cross-Team Collaboration:
+   - Provided troubleshooting support for hardware teams (Apple and Guava)
+   - Assisted with firmware version issues and connection problems
+
+3. Data Pipeline Optimization:
+   - Simplified and restructured the data pipeline
+   - Utilized SQL, command-line operations, and C programming to refine weatherbox schemas
+
+### Skill Development
+
+1. Technical Skills:
+   - SQL database management
+   - XBEE configuration for data transmission
+   - C programming
+   - Server maintenance and optimization
+
+2. Soft Skills:
+   - Effective teamwork and communication
+   - Time management in a fast-paced environment
+   - Problem-solving and troubleshooting
+
+## Project Impact
+
+SCEL plays a crucial role in Hawaii's renewable energy initiative. By collecting and analyzing weather data, the project contributes to the strategic placement of future renewable energy sources, supporting the state's goal of 100% renewable energy by 2045.
+
+## Conclusion
+
+Participation in SCEL offers a unique opportunity for students to gain hands-on experience in renewable energy technology while developing essential technical and interpersonal skills. The project exemplifies the importance of interdisciplinary collaboration in addressing complex environmental challenges.

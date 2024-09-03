@@ -9,6 +9,7 @@ labels:
   - C
   - C++
   - Object-oriented programming
+  - Linked List
 summary: "A project to show proficiency in C++ and in Object-oriented programming"
 ---
 

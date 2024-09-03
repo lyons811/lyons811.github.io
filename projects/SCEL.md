@@ -14,7 +14,9 @@ labels:
 summary: "Vertically Integrated Project that focuses on the firmware of the weatherboxes produced by UH Manoa's SCEL lab."
 ---
 
-<img class="img-fluid" src="../img/SCEL/SCEL-people.png">
+<div style="width: 50%;">
+  <img class="img-fluid" src="../img/SCEL/SCEL-people.png">
+</div>
 
 The Smart Campus Energy Lab, or SCEL, is a VIP (Vertically Integrated Project) at the University of Hawaii at Manoa. As a VIP, SCEL brings together students from various disciplines to tackle one of Hawaii's most pressing challenges: achieving 100% renewable energy by 2045. To accomplish this goal, SCEL aims to gather weather data and use it to predict weather patterns. This data can then be used to determine ideal locations for future renewable energy sources. SCEL comprises multiple teams. Team Apple and Team Guava form the hardware backbone, while the Firmware Team keeps the software running on the local servers and the weather boxes themselves. The Machine Learning Team is then in charge of using that data to predict weather patterns.
 

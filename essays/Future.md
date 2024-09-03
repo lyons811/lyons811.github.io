@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "My Journey into Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-06
+date: 2024-09-02
 published: true
 labels:
   - Engineering

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ChatbotGUI.png
+image: img/animals-outside.jpg
 title: "Animal Farm"
 date: 2022
 published: true
@@ -13,8 +13,6 @@ summary: "A project to show proficiency in C++ and in Object-oriented programmin
 ---
 
 # Animal Farm Project
-
-## Description
 
 Animal Farm is a C++ project that demonstrates advanced object-oriented programming concepts through the implementation of a virtual animal management system. The application showcases the use of inheritance, polymorphism, and data structures, particularly focusing on a custom implementation of a singly linked list.
 

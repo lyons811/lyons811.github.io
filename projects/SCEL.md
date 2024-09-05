@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SCEL/scel-logo.png
+image: img/SCEL/scel--logo.png
 title: "SCEL firmware"
 date: 2022
 published: true

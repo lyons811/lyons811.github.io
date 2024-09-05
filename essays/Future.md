@@ -23,9 +23,9 @@ learning = ['JavaScript', 'TypeScript']
 future_goals = ['Node.js', 'Mobile App Development']
 ```
 
-While these tools have served me well, I'm eager to expand my repertoire, particularly in the realm of web development. Frameworks like Node.js and other popular JavaScript libraries beckon, promising the ability to create dynamic, responsive web applications. 
+While these tools have served me well, I'm eager to expand my repertoire, particularly in the realm of web development. Frameworks like Node.js and other popular JavaScript libraries are very promising, with the ability to create dynamic, responsive web applications. 
 
-However, my ultimate goal lies in the palm of our hands - mobile app development. The idea of crafting an application that could potentially reach millions of users, solving real-world problems or simply bringing joy, is a challenge I'm keen to embrace.
+However, my ultimate goal lies mobile app development. The idea of crafting an application that could potentially reach millions of users, solving real-world problems or simply bringing joy, is a challenge I'm keen to embrace.
 
 ## Cyber Foundations and Software Aspirations
 

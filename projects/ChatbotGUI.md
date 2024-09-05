@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ChatbotGUI.png
+image: img/Chatbot-GUI.png
 title: "ChatbotGUI"
 date: 2023
 published: true

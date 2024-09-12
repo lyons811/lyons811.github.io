@@ -24,7 +24,9 @@ In the field of software engineering, the ability to ask smart questions is cruc
 
 To illustrate the impact of asking questions the smart way, let's examine two real-world examples from StackOverflow.
 
-### The not-so-smart question: [Unfortunately MyApp has stopped. How can I solve this?](https://stackoverflow.com/questions/23353173/unfortunately-myapp-has-stopped-how-can-i-solve-this/23353174#23353174)
+### The not-so-smart question
+
+[Unfortunately MyApp has stopped. How can I solve this?](https://stackoverflow.com/questions/23353173/unfortunately-myapp-has-stopped-how-can-i-solve-this/23353174#23353174)
 
 This question demonstrates several pitfalls of asking questions the "not smart" way:
 
@@ -41,7 +43,9 @@ What can I do to solve this?"
 
 This question violates several of Raymond's principles for asking smart questions. It shows a lack of effort in diagnosing the problem, provides insufficient information, and doesn't demonstrate any attempt to solve the issue independently before seeking help.
 
-### The smart question: [ArrayIndexOutOfBoundsException with custom Android Adapter for multiple views in ListView](https://stackoverflow.com/questions/2596547/arrayindexoutofboundsexception-with-custom-android-adapter-for-multiple-views-in)
+### The smart question
+
+[ArrayIndexOutOfBoundsException with custom Android Adapter for multiple views in ListView](https://stackoverflow.com/questions/2596547/arrayindexoutofboundsexception-with-custom-android-adapter-for-multiple-views-in)
 
 In contrast, this question exemplifies many aspects of asking questions the smart way:
 
@@ -54,6 +58,7 @@ In contrast, this question exemplifies many aspects of asking questions the smar
 The question begins with a clear explanation of the goal:
 
 "I am attempting to create a custom Adapter for my ListView since each item in the list can have a different view (a link, toggle, or radio group), but when I try to run the Activity that uses the ListView I receive an error and the app stops."
+
 
 It then provides the relevant code:
 

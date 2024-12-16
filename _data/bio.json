@@ -6,7 +6,7 @@
     "email": "lyonws@hawaii.edu",
     "phone": "808-651-5222",
     "website": "https://lyons811.github.io/",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I graduated in Fall 2024",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "lyons811", "url": "http://github.com/lyons811" },
@@ -36,7 +36,7 @@
       "area": "Computer Engineering (expected Fall, 2024)",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
-      "endDate": "2024-12-18",
+      "endDate": "2024-12-21",
       "courses": [
       ]
     }
@@ -59,7 +59,7 @@
       "position": "Event Security",
       "website": "https://www.waikikiaquarium.org/",
       "startDate": "2023-07-01",
-      "endDate": "Present",
+      "endDate": "2024=08-01",
       "summary": "",
       "highlights": [
         "Ensure the safety and security of visitors and staff during special events and regular operations",
@@ -73,7 +73,7 @@
       "website": "https://scel-hawaii.org/",
       "position": "Firmware Team Member",
       "startDate": "2022-08-01",
-      "endDate": "2022-12-01",
+      "endDate": "2024-12-015",
       "summary": "Member on Team Firmware",
       "highlights": [
         "Design firmware for distributed weather sensor network",

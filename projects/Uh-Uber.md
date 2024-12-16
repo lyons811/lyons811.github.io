@@ -266,9 +266,5 @@ npm run dev
 
 We welcome contributions! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 Last Updated: December 15, 2024

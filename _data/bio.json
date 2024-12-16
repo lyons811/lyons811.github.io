@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Lyon Singleton",
-    "label": "Student",
+    "label": "Graduated",
     "picture": "https://github.com/lyons811.png",
     "email": "lyonws@hawaii.edu",
     "phone": "808-651-5222",
     "website": "https://lyons811.github.io/",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I graduated in Fall 2024",
+    "summary": "I studied for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I graduated in Fall 2024.",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "lyons811", "url": "http://github.com/lyons811" },
